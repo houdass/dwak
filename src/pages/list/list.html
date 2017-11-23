@@ -8,13 +8,23 @@
 </ion-header>
 
 <ion-content>
+<ion-searchbar
+  [(ngModel)]="myInput"
+  [showCancelButton]="true"
+  (ionInput)="getItems($event)"
+  (ionCancel)="onCancel($event)">
+</ion-searchbar>
   <ion-list>
+  <ion-item *ngIf="items.length ===  0">Empty</ion-item>
     <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
-      <ion-icon name="{{item.icon}}" item-left></ion-icon>
-      {{item.title}}
+      <ion-icon name="medkit" item-left></ion-icon>
+      {{item.name}}
       <div class="item-note" item-right>
-        {{item.note}}
+        {{item.id}}
       </div>
     </button>
   </ion-list>
+  <ion-infinite-scroll (ionInfinite)="doInfinite($event)">
+   <ion-infinite-scroll-content></ion-infinite-scroll-content>
+ </ion-infinite-scroll>
 </ion-content>
