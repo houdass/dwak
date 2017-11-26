@@ -1,16 +1,19 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Prix</ion-title>
+    <ion-title menuToggle>Prix</ion-title>
   </ion-navbar>
 
 </ion-header>
 <ion-content>
   <div class="pins">
-    <ion-card class="pin" *ngFor="let post of posts">
+    <ion-card class="pin view view-tenth" *ngFor="let post of posts">
       <img [src]="post.image" />
-      <div *ngIf="post.description" class="post-description" text-center>
-        <small>{{ post.description }}</small>
+      <div class="mask">
+        <h2>{{ post.description }}</h2>
+        <a href="#" class="info">Read More</a>
       </div>
     </ion-card>
   </div>
 </ion-content>
+
+

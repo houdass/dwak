@@ -12,7 +12,9 @@
   [(ngModel)]="myInput"
   [showCancelButton]="true"
   (ionInput)="getItems($event)"
-  (ionCancel)="onCancel($event)">
+  (ionCancel)="onCancel($event)"
+  [debounce]="1000"
+  [animated]="true">
 </ion-searchbar>
   <ion-list>
   <ion-item *ngIf="items.length ===  0">Empty</ion-item>
