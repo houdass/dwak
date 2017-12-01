@@ -12,7 +12,6 @@ import {Subject} from "rxjs/Subject";
   providers: [DrugProvider]
 })
 export class ListPage {
-  icons: string[];
   items: any[] = [];
   allItems: any[];
   page: number = 1;

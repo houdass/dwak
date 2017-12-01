@@ -1,0 +1,20 @@
+A- Ajouter un champs shortType abréviation du type de chaque médicament
+  1- Faire une liste exhaustive des types médicaments disponibles @Youness @Brahim
+  2- Actions: faire le merge des deux listes
+
+B- Vérifier les proprietés à savoir : les noms, les prix, les types
+   Remplacer les virgules des décimals par des points
+
+C- Unifier les noms (pas 10 MG) exemple : Mon médicament 125mg/1mg
+
+D- Ajouter unité Dirhams : exemple 124.32DH
+
+E- Brahim du médicament : ligne 32673 -> "name": "INSPRA 25mg" jusqu'à la fin
+F- Youness du médicament : du début jusqu'à la ligne 32673 -> "name": "INSPRA 25mg"
+
+G- Ajouter un flag status:
+  1- "status": "COMPLETED" => si le médicament est mghayz
+  2- "status": "PENDING" => il faut vérifier certaines proprietés
+  2- "status": "REJECTED" => 0 ne pas afficher
+
+H- Proposer des icones la ou il en manquent

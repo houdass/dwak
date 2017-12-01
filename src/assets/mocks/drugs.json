@@ -1604,9 +1604,9 @@
     "codeATC": "R06AX27",
     "price": "32.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "1 an",
+    "minAgeOfUse": "1 an",
     "id": 113,
-    "type": "5 MG / ML"
+    "type": "5mg/ml"
   },
   {
     "name": "AERIUS 5mg",
@@ -2076,7 +2076,7 @@
     "refund": true,
     "baseOfRefund": "31.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 148,
     "type": "Sirop"
   },
@@ -2104,7 +2104,7 @@
     "codeATC": "R05D",
     "price": "31.50",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 150,
     "type": "133 G / 100 ML"
   },
@@ -2117,7 +2117,7 @@
     "codeATC": "R05D",
     "price": "19.40",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "30 mois",
+    "minAgeOfUse": "30 mois",
     "id": 151,
     "type": "100 G / 100 ML"
   },
@@ -5939,7 +5939,7 @@
     "price": "14.00",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 425,
     "type": "04%"
   },
@@ -6175,7 +6175,7 @@
     "price": "13.00",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 442,
     "type": "Solution buvable"
   },
@@ -8083,7 +8083,7 @@
     "refund": true,
     "baseOfRefund": "17.20",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "30 mois",
+    "minAgeOfUse": "30 mois",
     "id": 580,
     "type": "002"
   },
@@ -11905,7 +11905,7 @@
     "codeATC": "R05CB06",
     "price": "29.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 861,
     "type": "Solution buvable"
   },
@@ -11943,7 +11943,7 @@
     "price": "18.60",
     "hospitalPrice": "11.60",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 864,
     "type": "Sirop"
   },
@@ -11985,7 +11985,7 @@
     "codeATC": "R05CB03",
     "price": "11.70",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 868,
     "type": "Sirop"
   },
@@ -12036,7 +12036,7 @@
     "codeATC": "R05CB03",
     "price": "12.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 873,
     "type": "Sirop"
   },
@@ -12130,7 +12130,7 @@
     "codeATC": "R05CB06",
     "price": "34.60",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 881,
     "type": "Solution buvable"
   },
@@ -12839,7 +12839,7 @@
     "composition": "Hydroxypatite de calcium, vitamine D3, et extraits de plantes sèches ( Milet, prêle)",
     "price": "110.00",
     "nature": "Complément alimentaire",
-    "Age minimal d'utilisation :": "3 ans",
+    "minAgeOfUse": "3 ans",
     "id": 936,
     "type": "SOLUTION BUVABLE"
   },
@@ -16451,7 +16451,7 @@
     "refund": true,
     "baseOfRefund": "26.50",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 1208,
     "type": "Suspension buvable"
   },
@@ -16467,7 +16467,7 @@
     "refund": true,
     "baseOfRefund": "47.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 1209,
     "type": "Suspension buvable"
   },
@@ -17785,7 +17785,7 @@
     "codeATC": "R05DA04",
     "price": "20.55",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 1309,
     "type": "Sirop"
   },
@@ -17812,7 +17812,7 @@
     "codeATC": "R05DA04",
     "price": "13.30",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "30 mois",
+    "minAgeOfUse": "30 mois",
     "id": 1311,
     "type": "Sirop"
   },
@@ -19125,7 +19125,7 @@
     "refund": true,
     "baseOfRefund": "20.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 1411,
     "type": "Solution buvable"
   },
@@ -19579,7 +19579,7 @@
     "refund": true,
     "baseOfRefund": "53.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "4 mois",
+    "minAgeOfUse": "4 mois",
     "id": 1447,
     "type": "02"
   },
@@ -22646,7 +22646,7 @@
     "price": "27.30",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 1669,
     "type": "Sirop"
   },
@@ -22660,7 +22660,7 @@
     "price": "25.00",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 1670,
     "type": "Sirop"
   },
@@ -22674,7 +22674,7 @@
     "price": "25.50",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 1671,
     "type": "Solution buvable"
   },
@@ -22720,7 +22720,7 @@
     "price": "16.30",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "6 ans ( Plus de 20 KLG)",
+    "minAgeOfUse": "6 ans ( Plus de 20 KLG)",
     "id": 1675,
     "type": "Sirop"
   },
@@ -24462,7 +24462,7 @@
     "family": "Antihistaminique H1",
     "price": "25.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "1 an",
+    "minAgeOfUse": "1 an",
     "id": 1805,
     "type": "5mg"
   },
@@ -24982,7 +24982,7 @@
     "hospitalPrice": "12.00",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "30 mois",
+    "minAgeOfUse": "30 mois",
     "id": 1845,
     "type": "Sirop"
   },
@@ -24994,7 +24994,7 @@
     "codeATC": "R05CB06",
     "price": "34.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 1846,
     "type": "3 %"
   },
@@ -25026,7 +25026,7 @@
     "codeATC": "R05CB06",
     "price": "18.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 1849,
     "type": "3 %"
   },
@@ -25056,7 +25056,7 @@
     "price": "21.00",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "12 ans",
+    "minAgeOfUse": "12 ans",
     "id": 1851,
     "type": "Sirop"
   },
@@ -30993,7 +30993,7 @@
     "composition": "Biclothymol Eucalyptol Paracetamol Pholcodine",
     "price": "27.05",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 2300,
     "type": "Sirop"
   },
@@ -31136,7 +31136,7 @@
     "refund": true,
     "baseOfRefund": "48.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2312,
     "type": "Sirop"
   },
@@ -31161,7 +31161,7 @@
     "refund": true,
     "baseOfRefund": "26.00",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2314,
     "type": "Sirop"
   },
@@ -31377,7 +31377,7 @@
     "codeATC": "R05CB03",
     "price": "30.50",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 2329,
     "type": "Sirop"
   },
@@ -31389,7 +31389,7 @@
     "codeATC": "R05CB03",
     "price": "12.70",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2330,
     "type": "Sirop"
   },
@@ -31557,7 +31557,7 @@
     "type": "Gel"
   },
   {
-    "name": "HYDROCORTISONE ROUSSEL 10 mg",
+    "name": "HYDROCORTISONE ROUSSEL 10mg",
     "presentation": "Boîte de 25",
     "princeps :": true,
     "manufacturer": "MAPHAR",
@@ -36944,7 +36944,7 @@
     "refund": false,
     "nature": "Médicament",
     "Indication :": "Traitement des symptômes du reflux gastro-œsophagien tels que régurgitations acides, pyrosis et digestion difficile (en relation avec reflux), comme, par exemple, après les repas ou au cours de la grossesse, ou lors d'une œsophagite.",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "Particularité :": "Goût citron",
     "id": 2734,
     "type": "Sachet"
@@ -36960,7 +36960,7 @@
     "hospitalPrice": "16.10",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 2735,
     "type": "5g"
   },
@@ -37797,7 +37797,7 @@
     "codeATC": "R05CB03",
     "price": "16.40",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2799,
     "type": "Sirop"
   },
@@ -40183,7 +40183,7 @@
     "codeATC": "R05C0",
     "price": "14.95",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "5 ans",
+    "minAgeOfUse": "5 ans",
     "id": 2976,
     "type": "Sirop"
   },
@@ -40215,7 +40215,7 @@
     "codeATC": "R05CB03",
     "price": "12.95",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2979,
     "type": "Sirop"
   },
@@ -40227,7 +40227,7 @@
     "codeATC": "R05CB03",
     "price": "46.40",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 2980,
     "type": "Sirop"
   },
@@ -40239,7 +40239,7 @@
     "codeATC": "R05CB03",
     "price": "19.45",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 2981,
     "type": "Sirop"
   },
@@ -40306,7 +40306,7 @@
     "hospitalPrice": "25.70",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 2987,
     "type": "Solution buvable"
   },
@@ -41179,7 +41179,7 @@
     "codeATC": "R05FA02",
     "price": "14.25",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "Plus de 13 Kg",
+    "minAgeOfUse": "Plus de 13 Kg",
     "id": 3050,
     "type": "Sirop"
   },
@@ -42642,7 +42642,7 @@
     "hospitalPrice": "13.80",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "3 mois",
+    "minAgeOfUse": "3 mois",
     "id": 3164,
     "type": "05"
   },
@@ -43068,7 +43068,7 @@
     "price": "9.70",
     "refund": false,
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 3193,
     "type": "Sirop"
   },
@@ -44271,7 +44271,7 @@
     "refund": true,
     "baseOfRefund": "16.30",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "6 mois",
+    "minAgeOfUse": "6 mois",
     "id": 3284,
     "type": "05mg/ml"
   },
@@ -46654,7 +46654,7 @@
     "refund": true,
     "baseOfRefund": "13.20",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 3463,
     "type": "1%"
   },
@@ -47154,7 +47154,7 @@
     "codeATC": "R05",
     "price": "23.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 3501,
     "type": "Sirop Adulte"
   },
@@ -50456,7 +50456,7 @@
     "manufacturer": "PHARMA5",
     "composition": "Paracetamol Chlorphenamine Maleate Salicylamide Phenylephrine Chlorhydrate Cafeine Acide Ascorbique",
     "price": "22.70",
-    "Age minimal d'utilisation :": "15 ans",
+    "minAgeOfUse": "15 ans",
     "id": 3759,
     "type": "Sachet"
   },
@@ -54909,7 +54909,7 @@
     "price": "28.00",
     "hospitalPrice": "17.40",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 4090,
     "type": "Sirop"
   },
@@ -59423,7 +59423,7 @@
     "composition": "Pholcodine Ténoate de Sodium",
     "price": "16.10",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "6 ans",
+    "minAgeOfUse": "6 ans",
     "id": 4422,
     "type": "Sirop"
   },
@@ -59434,7 +59434,7 @@
     "composition": "Pholcodine Ténoate de Sodium",
     "price": "17.10",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "Reservé à l'adulte",
+    "minAgeOfUse": "Reservé à l'adulte",
     "id": 4423,
     "type": "Sirop"
   },
@@ -59488,7 +59488,7 @@
     "codeATC": "R06AA56 R05CA09 N02BE51",
     "price": "14.80",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 4428,
     "type": "Sirop"
   },
@@ -63777,7 +63777,7 @@
     "codeATC": "R06AX17",
     "price": "67.70",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "4 ans",
+    "minAgeOfUse": "4 ans",
     "id": 4756,
     "type": "Sirop"
   },
@@ -63793,7 +63793,7 @@
     "refund": true,
     "baseOfRefund": "31.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "2 ans",
+    "minAgeOfUse": "2 ans",
     "id": 4757,
     "type": "Sirop"
   },
@@ -65333,7 +65333,7 @@
     "refund": true,
     "baseOfRefund": "31.90",
     "nature": "Médicament",
-    "Age minimal d'utilisation :": "6 ans",
+    "minAgeOfUse": "6 ans",
     "id": 4869,
     "type": "Solution buvable"
   },

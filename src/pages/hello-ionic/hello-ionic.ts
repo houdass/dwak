@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { isEqual } from 'lodash';
 
 @Component({
   selector: 'page-hello-ionic',
